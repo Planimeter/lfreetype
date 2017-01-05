@@ -1,6 +1,14 @@
 # lfreetype
 LuaJIT FFI bindings for FreeType
 
+## Install
+
+### macOS
+
+```bash
+brew install freetype
+```
+
 ## License
 
 The MIT License
