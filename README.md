@@ -2,15 +2,12 @@
 LuaJIT FFI bindings for FreeType
 
 ## Install
-
 ### macOS
-
 ```bash
 brew install freetype
 ```
 
 ## License
-
 The MIT License
 
 Copyright (c) 2017 Planimeter. http://planimeter.org
